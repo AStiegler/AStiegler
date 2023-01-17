@@ -1,8 +1,7 @@
 <h3>Olá 👋</h3>
-<h3>Meu nome é Alan, tenho 24 anos e estou iniciando meus estudos em desenvolvimento Web!</h3>
+<h3>Meu nome é Alan, tenho 25 anos e estudo Análise e Desenvolvimento de Sistemas!</h3>
 
-- ✏️ Atualmente estudando HTML, CSS e JavaScript
-- ⚡ Tenho interesse em ReactJS e TypeScript
+- ✏️ Atualmente estudando JavaScript, TypeScript e NodeJS com Express
 
 <div align="center">
   <a href="https://github.com/AStiegler">
