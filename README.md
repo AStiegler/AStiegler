@@ -1,5 +1,5 @@
 <h3>Olá 👋</h3>
-<h3>Meu nome é Alan, tenho 25 anos e estudo Análise e Desenvolvimento de Sistemas!</h3>
+<h3>Meu nome é Alan, tenho 25 anos e estudo Análise e Desenvolvimento de Sistemas</h3>
 
 - ✏️ Atualmente estudando JavaScript, TypeScript e NodeJS com Express
 
